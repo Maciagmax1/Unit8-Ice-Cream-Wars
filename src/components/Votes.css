@@ -1,0 +1,19 @@
+.Votes {
+  flex: 1;
+}
+
+.Votes .bar {
+  height: 25px;
+}
+
+.Votes .flavor1 {
+  background-color: chocolate;
+}
+
+.Votes .flavor2 {
+  background-color: beige;
+}
+
+.Votes .flavor3 {
+  background-color: red;
+}

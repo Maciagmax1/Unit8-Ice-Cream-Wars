@@ -1,0 +1,20 @@
+/* resets */
+
+body,
+h1 {
+  margin: 0;
+}
+
+body {
+  font-family: sans-serif;
+}
+
+h1,
+h2 {
+  font-family: "Caveat", cursive;
+}
+
+button:disabled {
+  background-color: gray;
+  color: white;
+}

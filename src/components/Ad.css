@@ -1,0 +1,14 @@
+.Ad {
+  border: 3px dotted purple;
+  text-align: center;
+  padding: 20px;
+}
+
+.Ad.dark {
+  background-color: black;
+  color: white;
+}
+
+.Ad .flavor {
+  font-family: "Caveat", cursive;
+}
